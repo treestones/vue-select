@@ -1,8 +1,8 @@
 {
-  "name": "vue-select",
-  "version": "3.20.2",
+  "name": "vue-select-wcag",
+  "version": "3.20.3",
   "description": "Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.",
-  "author": "Jeff Sagal <sagalbot@gmail.com>",
+  "author": "Simon Funk <simon.funk@treestones.ch>",
   "homepage": "https://vue-select.org",
   "directories": {
     "doc": "docs",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sagalbot/vue-select.git"
+    "url": "https://github.com/treestones/vue-select.git"
   },
   "peerDependencies": {
     "vue": "2.x"
